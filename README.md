@@ -28,7 +28,7 @@ Seja bem vindo ao Conversor de Moedas !
 6). Peso Colombiano -> Dolar
 7). Sair
 
--> Escolha uma das 06(seis) opções baixo: _
+-> Escolha uma das 06(seis) opções: _
 ```
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
