@@ -1,9 +1,9 @@
 # 💰 Conversor de Moedas
-O Challenge Conversor de Moedas, é um projeto final do curso de java - orientação a objetos.
+O Challenge Conversor de Moedas, é um projeto final do curso de java - orientação a objetos. Ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos em tempo real para uma experiência mais atualizada e eficaz.
 
 - **objetivo**
 
-> Via console, o usuário vai entrar com a opção que deseja dentro desse menu e depois disso vai informar qual é o valor que deseja converter. Ao final, terá o valor final já convertido e o programa será encerrado.
+> Via console, o usuário vai entrar com a opção que deseja dentro desse menu, e depois disso vai informar qual é o valor que deseja converter. Ao final, terá o valor já convertido. O usuário poderá utilizar o programa novamente até que escolha a opção de sair.
 
 - **o que encontrar**
 
