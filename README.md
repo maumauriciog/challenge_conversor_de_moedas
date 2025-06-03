@@ -1,9 +1,9 @@
-# 💰 Conversor de Moedas
+# Conversor de Moedas  [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![codecov](https://codecov.io/gh/nasa/openmct/branch/master/graph/badge.svg?token=7DQIipp3ej)](https://codecov.io/gh/nasa/openmct) [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/b2e34b17/openmct) [![npm version](https://img.shields.io/npm/v/openmct.svg)](https://www.npmjs.com/package/openmct) ![CodeQL](https://github.com/nasa/openmct/workflows/CodeQL/badge.svg)
 O Challenge Conversor de Moedas, é um projeto final do curso de java - orientação a objetos. Ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos em tempo real para uma experiência mais atualizada e eficaz.
 
 - **objetivo**
 
-> Via console, o usuário vai entrar com a opção que deseja dentro desse menu, e depois disso vai informar qual é o valor que deseja converter. Ao final, terá o valor já convertido. O usuário poderá utilizar o programa novamente até que escolha a opção de sair.
+> Via console, o usuário vai entrar com a opção que deseja dentro desse menu, e depois disso vai informar qual é o valor que deseja converter.
 
 - **o que encontrar**
 
@@ -13,7 +13,36 @@ O Challenge Conversor de Moedas, é um projeto final do curso de java - orienta�
 
 > o usuário vai poder realizar a conversão quantas vezes for necessário enquanto o programa estiver em execução, evitando encerrar para obter uma nova consulta.
 
-## Como Funciona o Programa
+## Compilando e Executando o Conversor de Moedas
+Certifique-se de ter o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) e a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalados e baixado, respectivamente, siga as instruções conforme abaixo.
+1. Faça download do código fonte:
+
+```sh
+git clone https://github.com/nasa/openmct.git
+```
+
+2. (Optional) Install the correct node version using [nvm](https://github.com/nvm-sh/nvm):
+
+```sh
+nvm install
+```
+
+3. Install development dependencies (Note: Check the `package.json` engine for our tested and supported node versions):
+
+```sh
+npm install
+```
+
+4. Run a local development server:
+
+```
+npm start
+```
+
+> [!IMPORTANT]
+> Open MCT is now running, and can be accessed by pointing a web browser at [http://localhost:8080/](http://localhost:8080/)
+
+## Como Utilizar o Programa Já Instalado
 
 Ao executar o programa, terá de escolha uma das 06(seis) opções conforme mostra abaixo:
 ```bash
