@@ -23,9 +23,7 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 
 2. Instale a biblioteca GSON, após download (Instale após abrir o código fonte no intelliJ - o programa precisa desta biblioteca instalada para garantir seu funcionamento):
 
-```sh
 <img src="pictures/scrA.png" width="235">&emsp;<img src="assets/figB.png" width="243">&emsp;<img src="assets/figC.png" width="238">
-```
 
 3. Install development dependencies (Note: Check the `package.json` engine for our tested and supported node versions):
 
