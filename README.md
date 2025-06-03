@@ -35,7 +35,6 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 ```
 
 3. Execute o programa:
-
 &emsp;&emsp;<img src="pictures/scrD.png" width="838">
 
 ```
@@ -43,11 +42,10 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 - ou Shift F10
 ```
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > O programa funciona somente local utilizando uma IDE, neste caso, o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) com a biblioteca GSON instalada.
 
 ## Utilizando o Programa em Execução
-
 O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
 ```bash
 -----------------------------------------------
