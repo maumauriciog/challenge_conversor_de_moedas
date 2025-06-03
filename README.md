@@ -47,7 +47,7 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 > O programa funciona somente utilizando uma IDE, neste caso, o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) com a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalada.
 
 ## Utilizando o Programa em Execução
-O usuário terá de escolha uma das 06(seis) opções conforme abaixo:
+O usuário terá de escolher uma das 06(seis) opções disponíveis conforme abaixo:
 ```bash
 -----------------------------------------------
 ---- SEJA BEM VINDO AO CONVERSOR DE MOEDAS ----
