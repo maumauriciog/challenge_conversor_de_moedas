@@ -67,9 +67,8 @@ O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
      Valor de 100.0[BRL], corresponde ao valor final de 17.52[USD]
 ```
 
-## Contributing
-
-We've released Docusaurus because it helps us better scale and supports the many OSS projects at Meta. We hope that other organizations can benefit from the project. We are thankful for any contributions from the community.
+## Contribuindo
+Esperamos que outras organizações possam se beneficiar do projeto. Agradecemos qualquer contribuição da comunidade.
 
 ### [Code of Conduct](https://code.fb.com/codeofconduct)
 
