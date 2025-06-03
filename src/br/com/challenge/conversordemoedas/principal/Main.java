@@ -10,9 +10,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner imput = new Scanner(System.in);
         ConvertCurrency convert = new ConvertCurrency();
-        int option = 0;
+        int option;
 
-        while (option != 7) {
+        while (true) {
             System.out.print("-----------------------------------------");
             System.out.println("\n------------ SEJA BEM VINDO -------------");
             System.out.println("---------- CONVERSOR DE MOEDAS ---------- ");
@@ -37,7 +37,7 @@ public class Main {
                 System.out.print("-> Digite o valor que deseja converter: ");
                 double amount = imput.nextInt();
 
-                if ((option <= 0) | (option > 7)) {
+                if (option <= 0 | option > 7) {
                     System.out.println("\n*** Opção Inválida! Repita a Operação ***\n");
                 }
                 switch (option) {
