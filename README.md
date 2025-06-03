@@ -35,6 +35,7 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 ```
 
 3. Execute o programa:
+
 &emsp;&emsp;<img src="pictures/scrD.png" width="838">
 
 ```
