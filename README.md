@@ -80,7 +80,6 @@ Temos os seguintes canais para contato:
 
 
 ## Licensa
-Docusaurus is [MIT licensed](./LICENSE).
 ```
 The MIT License (MIT)
 
@@ -103,19 +102,3 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
-
-## Agradecimento Especiais
-<p>
-  <a href="http://www.browserstack.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
-      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
-    </picture>
-  </a>
-</p>
-
-[BrowserStack](http://www.browserstack.com/) supports us with [free access for open source](https://www.browserstack.com/open-source).
-
-[![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
-
-[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
