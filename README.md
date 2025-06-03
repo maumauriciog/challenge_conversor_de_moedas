@@ -42,7 +42,7 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 - ou Shift F10
 ```
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > O programa funciona somente utilizando uma IDE, neste caso, o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) com a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalada.
 
 ## Utilizando o Programa em Execução
