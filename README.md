@@ -1,5 +1,5 @@
 # Conversor de Moedas&emsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-O Challenge Conversor de Moedas, é um projeto final do curso de java - orientação a objetos. Ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos em tempo real para uma experiência mais atualizada e eficaz.
+O Challenge Conversor de Moedas, é um projeto final do curso de java - orientação a objetos. Oferece interação textual (via console) com os usuários, proporcionando no mínimo 6(seis) opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos em tempo real para uma experiência mais atualizada e eficaz.
 
 - **objetivo**
 
@@ -14,14 +14,14 @@ O Challenge Conversor de Moedas, é um projeto final do curso de java - orienta�
 > o usuário vai poder realizar a conversão quantas vezes for necessário enquanto o programa estiver em execução, evitando encerrar para obter uma nova consulta.
 
 ## Compilando e Executando o Conversor de Moedas
-Certifique-se de ter o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) e a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalados e baixado, e siga as instruções conforme abaixo:
-1. Faça download do código fonte:
+Certifique-se de ter o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) e a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalado / baixado, e siga as instruções conforme abaixo:
+1. Faça o download do código fonte:
 
 ```sh
 https://github.com/maumauriciog/challenge_conversor_de_moedas
 ```
 
-2. Instale a biblioteca GSON, após download (Instale após abrir o código fonte no intelliJ - o programa precisa desta biblioteca instalada para garantir seu funcionamento):
+2. Instale a biblioteca GSON, após o download (instale após abrir o código fonte no intelliJ - o procódigo fonte precisa desta biblioteca instalada para garantir seu funcionamento):
 
 &emsp;&emsp;<img src="pictures/scrA.png" width="210">&emsp;<img src="pictures/scrB.png" width="243">&emsp;<img src="pictures/scrC.png" width="238">
 
@@ -43,10 +43,10 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 ```
 
 > [!IMPORTANT]
-> O programa funciona somente local utilizando uma IDE, neste caso, o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) com a biblioteca GSON instalada.
+> O programa funciona somente utilizando uma IDE, neste caso, o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) com a biblioteca GSON instalada.
 
 ## Utilizando o Programa em Execução
-O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
+O usuário terá de escolha uma das 06(seis) opções conforme abaixo:
 ```bash
 -----------------------------------------------
 ---- SEJA BEM VINDO AO CONVERSOR DE MOEDAS ----
@@ -59,8 +59,8 @@ O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
 6). Peso Colombiano -> Dolar
 7). Sair
 
--> Escolha uma opção válida: _
--> Digite o valor que deseja converter: _
+-> Escolha uma opção válida: 4
+-> Digite o valor que deseja converter: 100
 ```
 ```bash
      *** Resultado da Operação ***
@@ -72,7 +72,6 @@ Esperamos que outras organizações possam se beneficiar do projeto. Agradecemos
 
 ## Contato
 Temos os seguintes canais para contato:
-
 - maumauriciog@hotmail.com
   - `no campo Assunto escreva: Ajuda` para assuntos de como utilizar o sistema; e
   - `no campo Assunto escreva: Quero Contribuir` para aqueles que desejam contribuir.
