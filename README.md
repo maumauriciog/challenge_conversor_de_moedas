@@ -30,6 +30,7 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 - click e 'Modules'
 - click em 'Dependencies' no lado direito
 - click no sinal de '+'
+- selecione a opção 'JARs or Directories'
 - selecione a biblioteca GSON baixada anteriormente
 ```
 
