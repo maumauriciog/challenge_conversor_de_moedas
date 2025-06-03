@@ -44,15 +44,15 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 ```
 
 > [!IMPORTANTE]
-> O programa somente funciona local, utilizando uma IDE, no caso o intelliJ com a biblioteca GSON instalada.
+> O programa funciona somente local utilizando uma IDE, neste caso, o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) com a biblioteca GSON instalada.
 
 ## Utilizando o Programa em Execução
 
 O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
 ```bash
-----------------------------------------
-Seja bem vindo ao Conversor de Moedas !
-----------------------------------------
+-----------------------------------------------
+---- SEJA BEM VINDO AO CONVERSOR DE MOEDAS ----
+-----------------------------------------------
 1). Dolar -> Peso Argentino
 2). Peso Argentino -> Dolar
 3). Dolar -> Real Brasileiro
@@ -62,6 +62,11 @@ Seja bem vindo ao Conversor de Moedas !
 7). Sair
 
 -> Escolha uma opção válida: _
+-> Digite o valor que deseja converter: _
+```
+```bash
+     *** Resultado da Operação ***
+     Valor de 100.0[BRL], corresponde ao valor final de 17.52[USD]
 ```
 
 ## Contributing
