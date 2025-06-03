@@ -70,20 +70,7 @@ O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
 ## Contribuindo
 Esperamos que outras organizações possam se beneficiar do projeto. Agradecemos qualquer contribuição da comunidade.
 
-### [Code of Conduct](https://code.fb.com/codeofconduct)
-
-Meta has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the full text](https://code.fb.com/codeofconduct) so that you can understand what actions will and will not be tolerated.
-
-### Contributing guide
-
-Read our [contributing guide](https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to Docusaurus.
-
-### Beginner-friendly bugs
-
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [beginner-friendly bugs](https://github.com/facebook/docusaurus/labels/good%20first%20issue) that might contain smaller issues to tackle first. This is a great place to get started.
-
 ## Contato
-
 Temos os seguintes canais para contato:
 
 - maumauriciog@hotmail.com
@@ -93,13 +80,11 @@ Temos os seguintes canais para contato:
 
 
 ## Licensa
-
 Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
 
 
 ## Agradecimento Especiais
-
 <p>
   <a href="http://www.browserstack.com/" target="_blank">
     <picture>
