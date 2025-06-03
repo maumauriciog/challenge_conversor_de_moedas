@@ -14,7 +14,7 @@ O Challenge Conversor de Moedas, é um projeto final do curso de java - orienta�
 > o usuário vai poder realizar a conversão quantas vezes for necessário enquanto o programa estiver em execução, evitando encerrar para obter uma nova consulta.
 
 ## Compilando e Executando o Conversor de Moedas
-Certifique-se de ter o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) e a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalados e baixado, respectivamente, siga as instruções conforme abaixo.
+Certifique-se de ter o [intelliJ](https://www.jetbrains.com/idea/download/?section=windows) e a biblioteca [GSON](https://mvnrepository.com/search?q=GSON) instalados e baixado, respectivamente, e siga as instruções conforme abaixo:
 1. Faça download do código fonte:
 
 ```sh
@@ -25,33 +25,30 @@ https://github.com/maumauriciog/challenge_conversor_de_moedas
 
 &emsp;&emsp;<img src="pictures/scrA.png" width="210">&emsp;<img src="pictures/scrB.png" width="243">&emsp;<img src="pictures/scrC.png" width="238">
 
-```sh
+```
 - vá ao menu File do intelliJ e escolha a opção 'Project Structure'
 - click e 'Modules'
 - click em 'Dependencies' no lado direito
 - click no sinal de '+'
-- selecione a opção 'JARs or Directories'
+- click na opção 'JARs or Directories'
 - selecione a biblioteca GSON baixada anteriormente
 ```
 
-3. Install development dependencies (Note: Check the `package.json` engine for our tested and supported node versions):
+3. Execute o programa:
 
-```sh
-npm install
-```
-
-4. Run a local development server:
+&emsp;&emsp;<img src="pictures/scrD.png" width="210">
 
 ```
-npm start
+- click em 'Run Main'
+- ou Shift F10
 ```
 
-> [!IMPORTANT]
-> Open MCT is now running, and can be accessed by pointing a web browser at [http://localhost:8080/](http://localhost:8080/)
+> [!IMPORTANTE]
+> O programa somente funciona local, utilizando uma IDE, no caso o intelliJ com a biblioteca GSON instalada.
 
-## Como Utilizar o Programa Já Instalado
+## Utilizando o Programa em Execução
 
-Ao executar o programa, terá de escolha uma das 06(seis) opções conforme mostra abaixo:
+O usuário terá de escolha uma das 06(seis) opções conforme mostra abaixo:
 ```bash
 ----------------------------------------
 Seja bem vindo ao Conversor de Moedas !
@@ -66,8 +63,6 @@ Seja bem vindo ao Conversor de Moedas !
 
 -> Escolha uma opção válida: _
 ```
-
-[Read the docs](https://docusaurus.io/docs/installation) for any further information.
 
 ## Contributing
 
